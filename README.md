@@ -1476,7 +1476,7 @@ http://astro2.rastream.com/era?type=.flv
 #EXTINF:0, tvg-id="857" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="SINAR FM"  group-title="Radio",SINAR FM
 http://astro2.rastream.com/sinar?type=.flv
 
-#EXTINF:0, tvg-id="852" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="HITZ FM"  group-title="?Radio",HITZ FM
+#EXTINF:0, tvg-id="852" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="HITZ FM"  group-title="Radio",HITZ FM
 http://astro1.rastream.com/hitz?type=.flv
 
 #EXTINF:0, tvg-id="855" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/NEW%20ASTRO.png" tvg-name="MIX FM"  group-title="Radio",MIX FM
